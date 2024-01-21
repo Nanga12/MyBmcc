@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/logo.png</file>
+        <file>image/wallpaper.png</file>
+        <file>files/Accounting_Mentors</file>
+        <file>files/Businessadministration_Mentors</file>
+        <file>files/engeneering_Mentors</file>
+        <file>image/1.png</file>
+        <file>image/2.png</file>
+        <file>image/3.png</file>
+        <file>image/4.png</file>
+        <file>image/5.png</file>
+        <file>image/6.png</file>
+        <file>files/CO SC.txt</file>
+        <file>files/CSC_Mentors.txt</file>
+    </qresource>
+</RCC>
